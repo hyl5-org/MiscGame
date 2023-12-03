@@ -11,3 +11,5 @@
 - SLG
 - FPS
 ...
+
+codes will be written in C native code to achieve best compatibility.
